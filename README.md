@@ -20,3 +20,5 @@ npm run watch
 ###Вход в админ-панель
 логин: admin@admin.ru
 пароль: 123456
+
+дамп БД database/sql/db.sql
